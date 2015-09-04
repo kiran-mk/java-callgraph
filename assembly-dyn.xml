@@ -9,7 +9,7 @@
   </formats>
   <includeBaseDirectory>false</includeBaseDirectory>
 
-  <dependencySets>
+  <dependencySets>asdfv
     <dependencySet>
       <unpack>true</unpack>
       <includes>
