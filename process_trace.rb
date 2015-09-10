@@ -2,7 +2,7 @@
 #
 # Reads a call trace, formatted as
 #
-# [<>][stack_depth][thread]called_method=time_nanosecs
+# [<>][stack_depth][thread]called_method=time_nanosecszxcv
 #
 # and produces the total time spent in each method.
 # Lines that start with > denote method entry
